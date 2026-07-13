@@ -1,4 +1,4 @@
-#Instalación de Suricata IDS (CentOS Stream 10)
+## Instalación de Suricata IDS (CentOS Stream 10)
 
 **Curso:** Seguridad Operativa
 **Docente:** Edgar Mauricio Lopez Rojas
